@@ -1,0 +1,34 @@
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$body-bg: #f3bebe;
+$body-color: #272727;
+
+// Required
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+
+// Optional Bootstrap components here
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/type";
+// etc
+.container{
+    border: 2px solid grey;
+    background-color: whitesmoke;
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 800px;
+    color: chocolate;
+    border-radius: 2%;
+}
+h1{
+    color: grey;
+    margin-top: 5px;
+    width: 200px;
+   
+}
+
+
