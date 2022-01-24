@@ -21,3 +21,6 @@ Objetivo: Crear un pequeno sitio con Bootstrap/Sass/Parcel
   $ theme-colors: ("primario":$primario);
   
   
+[Sass-Bootstrap-Parcel.pdf](https://github.com/YanLeandro/freeoob/files/7925256/Sass-Bootstrap-Parcel.pdf)
+[resultado.pdf](https://github.com/YanLeandro/freeoob/files/7925257/resultado.pdf)
+[loginbasico.pdf](https://github.com/YanLeandro/freeoob/files/7925260/loginbasico.pdf)
